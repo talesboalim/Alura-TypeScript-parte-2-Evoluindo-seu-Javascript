@@ -1,0 +1,25 @@
+{
+  "name": "typescript-parte-1-evoluindo-seu-javascript",
+  "version": "1.0.0",
+  "description": "Curso Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talesboalim/TypeScript-parte-1-Evoluindo-seu-Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talesboalim/TypeScript-parte-1-Evoluindo-seu-Javascript/issues"
+  },
+  "homepage": "https://github.com/talesboalim/TypeScript-parte-1-Evoluindo-seu-Javascript#readme",
+  "devDependencies": {
+    "@types/jquery": "^2.0.42",
+    "typescript": "^2.3.2"
+  }
+}

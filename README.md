@@ -3,10 +3,11 @@ Curso Alura
 
 # Instalação
 ```
-npm install
+.\app\npm install
 ```
 
 # Exeução
 ```
-npm start
+.\api\npm start
+.\app\npm start
 ```

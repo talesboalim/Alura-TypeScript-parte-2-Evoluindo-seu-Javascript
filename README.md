@@ -10,5 +10,3 @@ npm install
 ```
 npm start
 ```
-
-Acessar .\app\index.html
